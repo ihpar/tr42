@@ -1,0 +1,15 @@
+Total media count (10 Dec 2022)
+-----------------
+Kocaeli 11757
+Sakarya 4400
+Düzce 7506
+Bolu 1757
+Yalova 3703
+
+2021 Population (https://data.tuik.gov.tr/Bulten/Index?p=45500)
+-----------------
+Kocaeli 2.033.441
+Sakarya 1.060.876
+Düzce  400.976
+Bolu  320.014
+Yalova  291.001

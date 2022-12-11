@@ -5,11 +5,32 @@ Sakarya 4400
 Düzce 7506
 Bolu 1757
 Yalova 3703
+Toplam: 29123
 
 2021 Population (https://data.tuik.gov.tr/Bulten/Index?p=45500)
 -----------------
-Kocaeli 2.033.441
-Sakarya 1.060.876
-Düzce  400.976
-Bolu  320.014
-Yalova  291.001
+Belediye     Nüfus
+ Kocaeli 2,033,441
+ Sakarya 1,060,876
+   Düzce   400,976
+    Bolu   320,014
+  Yalova   291,001
+
+Tarihler
+----------------
+Belediye  Son okuma  İlk okuma  Aradaki gün Günlük ortalama post
+ Kocaeli 10/12/2022 21/11/2022           18                11.11
+ Sakarya 10/12/2022 06/11/2022           33                 6.06
+   Düzce 10/12/2022 03/11/2022           36                 5.56
+    Bolu 08/12/2022 22/04/2022          230                 0.87
+  Yalova 01/12/2022 19/10/2022           42                 4.76
+
+
+Tepkiler
+----------------
+Belediye  Toplam Post  Toplam Yorum  Toplam Begeni Yor/Post Lik/Post Yor/Pop Lik/Pop Lik/Com
+ Kocaeli          199          3245         248080    16.31  1246.63    1.60  122.00   76.45
+ Sakarya          200           665          54359     3.33   271.80    0.63   51.24   81.74
+   Düzce          200          2078         157811    10.39   789.05    5.18  393.57   75.94
+    Bolu          164          3523         172343    21.48  1050.87   11.01  538.55   48.92
+  Yalova          199          1309          66142     6.58   332.37    4.50  227.29   50.53

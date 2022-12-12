@@ -18,12 +18,12 @@ Belediye     Nüfus
 
 Tarihler
 ----------------
-Belediye  Son okuma  İlk okuma  Aradaki gün Günlük ortalama post
- Kocaeli 10/12/2022 21/11/2022           18                11.11
- Sakarya 10/12/2022 06/11/2022           33                 6.06
-   Düzce 10/12/2022 03/11/2022           36                 5.56
-    Bolu 08/12/2022 22/04/2022          230                 0.87
-  Yalova 01/12/2022 19/10/2022           42                 4.76
+Belediye Son_okuma İlk_okuma Aradaki_gün Günlük_ortalama_post
+Kocaeli 10/12/2022 21/11/2022 18 11,11
+Sakarya 10/12/2022 06/11/2022 33 6,06
+Düzce 10/12/2022 03/11/2022 36 5,56
+Bolu 08/12/2022 22/04/2022 230 0,87
+Yalova 01/12/2022 19/10/2022 42 4,76
 
 
 Tepkiler

@@ -1,3 +1,5 @@
+*** Instagram ***
+
 Total media count (10 Dec 2022)
 -----------------
 Kocaeli 11757
@@ -34,3 +36,49 @@ Belediye  Toplam Post  Toplam Yorum  Toplam Begeni Yor/Post Lik/Post Yor/Pop Lik
    Düzce          200          2078         157811    10.39   789.05    5.18  393.57   75.94
     Bolu          164          3523         172343    21.48  1050.87   11.01  538.55   48.92
   Yalova          199          1309          66142     6.58   332.37    4.50  227.29   50.53
+
+*** Twitter ***
+
+Tarihler
+----------------
+Belediye Son_okuma İlk_okuma Aradaki_gün Günlük_ortalama_post
+Kocaeli 12/12/2022 17/11/2022 25 8,00
+Bolu 08/12/2022 02/03/2022 281 0,71
+Yalova 12/12/2022 14/10/2022 58 3,45
+Düzce 12/12/2022 17/11/2022 25 8,00
+Sakarya 12/12/2022 09/11/2022 32 6,25
+
+Tepkiler
+----------------
+Belediye Toplam_Post Toplam_Yorum Toplam_Begeni Toplam_Retweet Toplam_Alıntı Yor/Post Lik/Post Yor/Pop Lik/Pop Ret/Pop Alıntı/Pop Lik/Com
+Kocaeli 200 501 15727 1441 50 2,50 78,64 0,25 7,73 0,71 0,02 31,39
+Bolu 200 559 20314 1738 90 2,79 101,57 1,75 63,48 5,43 0,28 36,34
+Yalova 200 87 3838 265 32 0,43 19,19 0,30 13,19 0,91 0,11 44,11
+Düzce 200 146 4497 484 31 0,73 22,48 0,36 11,22 1,21 0,08 30,80
+Sakarya 200 222 11132 2317 27 1,11 55,66 0,21 10,49 2,18 0,03 50,14
+
+*** FB ***
+
+Tarihler
+----------------
+Belediye Son_okuma İlk_okuma Aradaki_gün Günlük_ortalama_post
+Kocaeli 12/12/2022 15/11/2022 26 7,69
+Bolu 12/12/2022 14/06/2022 181 1,10
+Yalova 01/12/2022 17/10/2022 44 4,55
+Düzce 12/12/2022 10/11/2022 32 6,25
+Sakarya 12/12/2022 24/10/2022 49 4,08
+
+Tepkiler
+----------------
+Belediye Son_okuma İlk_okuma Aradaki_gün Günlük_ortalama_post
+Kocaeli 12/12/2022 15/11/2022 26 7,69
+Bolu 12/12/2022 14/06/2022 181 1,10
+Yalova 01/12/2022 17/10/2022 44 4,55
+Düzce 12/12/2022 10/11/2022 32 6,25
+Sakarya 12/12/2022 24/10/2022 49 4,08
+Belediye Toplam_Post Toplam_Yorum Toplam_Begeni Toplam_Share Yor/Post Lik/Post Yor/Pop Lik/Pop Share/Pop Lik/Com
+Kocaeli 200 1792 40385 1797 8,96 201,93 0,88 19,86 0,88 22,54
+Bolu 200 2377 60788 2357 11,88 303,94 7,43 189,95 7,37 25,57
+Yalova 200 446 11573 438 2,23 57,87 1,53 39,77 1,51 25,95
+Düzce 200 950 22068 3515 4,75 110,34 2,37 55,04 8,77 23,23
+Sakarya 200 38 15594 1432 0,19 77,97 0,04 14,70 1,35 410,37

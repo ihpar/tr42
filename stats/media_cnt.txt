@@ -70,15 +70,9 @@ Sakarya 12/12/2022 24/10/2022 49 4,08
 
 Tepkiler
 ----------------
-Belediye Son_okuma İlk_okuma Aradaki_gün Günlük_ortalama_post
-Kocaeli 12/12/2022 15/11/2022 26 7,69
-Bolu 12/12/2022 14/06/2022 181 1,10
-Yalova 01/12/2022 17/10/2022 44 4,55
-Düzce 12/12/2022 10/11/2022 32 6,25
-Sakarya 12/12/2022 24/10/2022 49 4,08
-Belediye Toplam_Post Toplam_Yorum Toplam_Begeni Toplam_Share Yor/Post Lik/Post Yor/Pop Lik/Pop Share/Pop Lik/Com
-Kocaeli 200 1792 40385 1797 8,96 201,93 0,88 19,86 0,88 22,54
-Bolu 200 2377 60788 2357 11,88 303,94 7,43 189,95 7,37 25,57
-Yalova 200 446 11573 438 2,23 57,87 1,53 39,77 1,51 25,95
-Düzce 200 950 22068 3515 4,75 110,34 2,37 55,04 8,77 23,23
-Sakarya 200 38 15594 1432 0,19 77,97 0,04 14,70 1,35 410,37
+Belediye Toplam_Yorum Toplam_Begeni Toplam_Share Yor/Post Lik/Post Share/Post Yor/Pop Lik/Pop Share/Pop Lik/Com
+Kocaeli 1792 40385 1797 8,96 201,93 8,98 0,88 19,86 0,88 22,54
+Bolu 2377 60788 2357 11,88 303,94 11,79 7,43 189,95 7,37 25,57
+Yalova 446 11573 438 2,23 57,87 2,19 1,53 39,77 1,51 25,95
+Düzce 950 22068 3515 4,75 110,34 17,57 2,37 55,04 8,77 23,23
+Sakarya 38 15594 1432 0,19 77,97 7,16 0,04 14,70 1,35 410,37
